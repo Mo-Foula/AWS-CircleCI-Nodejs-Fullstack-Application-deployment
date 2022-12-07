@@ -1,5 +1,5 @@
 # **Information regarding the deployed application**
-## [Frontend link](http://frontend.udacity.foula.s3-website-us-east-1.amazonaws.com/home)
+## **[Frontend link](http://frontend.udacity.foula.s3-website-us-east-1.amazonaws.com/home)**
 
 
 ## [Screenshots of services and their healths](/documentation/screenshots/)
