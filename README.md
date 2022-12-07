@@ -1,4 +1,20 @@
-# Hosting a Full-Stack Application
+# **Information regarding the deployed application**
+## [Frontend link](http://frontend.udacity.foula.s3-website-us-east-1.amazonaws.com/home)
+
+
+## [Screenshots of services and their healths](/documentation/screenshots/)
+## Diagrams
+### [AWS architecture](/documentation/architecture%20diagrams/Architecture.jpg)
+### [Deployment pipeline](/documentation/architecture%20diagrams/pipeline.jpg)
+## Documentations
+
+### [App dependencies](/documentation/App%20dependencies.md)
+### [Infrastructure description](/documentation/Infrastructure%20description.md)
+
+### [Pipeline process](/documentation/Pipeline%20process.md)
+
+<br><br/>
+# **Hosting a Full-Stack Application**
 
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
 
