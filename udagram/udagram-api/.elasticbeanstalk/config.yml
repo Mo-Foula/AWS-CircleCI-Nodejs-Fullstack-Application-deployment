@@ -5,6 +5,8 @@ environment-defaults:
   Backendudacityfoula-env:
     branch: null
     repository: null
+deploy:
+  artifact: www/Archive.zip
 global:
   application_name: backend.udacity.foula
   default_ec2_keyname: null
