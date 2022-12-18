@@ -1,5 +1,11 @@
 # **Information regarding the deployed application**
-## **[Frontend link](http://frontend.udacity.foula.s3-website-us-east-1.amazonaws.com/home)**
+This project was part of the Advanced Web Development Nanodegree, it was about deploying a provided full-stack application on AWS services:
+*	Backend on Elastic Beanstalk (EB)
+*	Frontend on Simple Storage Service (S3)
+*	Postgres database on Relational Database System (RDS)
+
+And the other part was integrating Circle-CI pipeline with GitHub source code for continuous integration and continuous delivery which automatically deployed to AWS whenever the project had a commit on certain branch.
+
 
 
 ## [Screenshots of services and their healths](/documentation/screenshots/)
